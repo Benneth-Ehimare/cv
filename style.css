@@ -1,0 +1,138 @@
+/*************************
+        RESET CSS
+ ************************/
+ *{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+ }
+
+ /*************************
+         GÉNÉRAL
+  ************************/
+ body{
+     color: #ffffff;
+     font-size: 18px;
+     background-color: #333333;
+ }
+ .bg1{
+     background-color: #000000;
+ }
+ .bg2{
+     background-color: #000000;
+ }
+ .mg{
+     margin: 20px;
+ }
+ .pd{
+     padding: 10px;
+ }
+ .round{
+     border-radius: 10px;
+ }
+
+ /*************************
+         HEADER
+  ************************/
+
+ header{
+     height: calc(22vh - 10px);
+ }
+ header p{
+     line-height: 8vh;
+ }
+
+
+
+ /*************************
+          NAV
+  ************************/
+
+ nav{
+     height: 8vh;
+ }
+ nav p{
+     line-height: 6vh;
+ }
+ /*************************
+         SECTION
+  ************************/
+
+ .pannel-left{
+     width: calc(70% - 10px);
+     height: 160vh;
+     position: relative;
+     display: inline-block;
+     vertical-align: middle;
+ }
+ .pannel-left> p:first-of-type{
+     margin: 10px;
+ }
+ .articles{
+     width: 100%;
+     position: absolute;
+     bottom: 0;
+ }
+ article{
+     height: 60vh;
+     margin: 20px;
+ }
+
+ /*************************
+         ASIDE
+  ************************/
+
+ aside{
+     width:calc(30% - 10px);
+     height: 160vh;
+     margin-left: 10px;
+     display: inline-block;
+     vertical-align: middle;
+ }
+
+ /*************************
+         FOOTER
+  ************************/
+
+ footer{
+     height: 10vh;
+ }
+ footer p{
+     line-height: 12vh;
+ }
+
+h1,h3,p{
+  color: #333333
+;
+}
+li {
+  color: #F0FFFF;
+}
+
+}
+h4 {
+  color: #000000;
+}
+
+
+
+li {
+  font-size: 16px;
+}
+
+h1, p {
+  color: #F0FFFF;
+}
+
+* {
+  font-family: Georgia;
+}
+* {
+  font-family: Arial;
+}
+
+
+h1, h3, l1, {
+  color: rgb(123, 20, 233);
+  background-color: rgb(99, 21, 127);
+}
