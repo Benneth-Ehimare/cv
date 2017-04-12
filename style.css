@@ -16,7 +16,7 @@
      background-color: #333333;
  }
  .bg1{
-     background-color: #000000;
+     background-color: #1E90FF;
  }
  .bg2{
      background-color: #000000;
@@ -36,7 +36,7 @@
   ************************/
 
  header{
-     height: calc(22vh - 10px);
+     height: calc(30vh - 10px);
  }
  header p{
      line-height: 8vh;
@@ -60,7 +60,7 @@
 
  .pannel-left{
      width: calc(70% - 10px);
-     height: 160vh;
+     height: 130vh;
      position: relative;
      display: inline-block;
      vertical-align: middle;
@@ -95,7 +95,7 @@
   ************************/
 
  footer{
-     height: 10vh;
+     height: 30vh;
  }
  footer p{
      line-height: 12vh;
